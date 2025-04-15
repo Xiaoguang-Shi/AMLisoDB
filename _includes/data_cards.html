@@ -1,0 +1,39 @@
+{% comment %}
+  数据卡片模板组件
+  依赖变量：page.data_files
+{% endcomment %}
+
+{% for file in page.data_files %}
+<article class="data-card">
+  <header class="card-header">
+    <h3>
+      <a href="{{ file.path | relative_url }}" 
+         download
+         class="download-link"
+         title="下载 {{ file.name }}">
+        <span class="icon-download"></span>
+        {{ file.name }}
+      </a>
+    </h3>
+  </header>
+  
+  <div class="card-content">
+    <p>{{ file.desc }}</p>
+    
+    <dl class="file-meta">
+      <div class="meta-item">
+        <dt>格式：</dt>
+        <dd class="format">{{ file.format }}</dd>
+      </div>
+      <div class="meta-item">
+        <dt>大小：</dt>
+        <dd class="filesize">{{ file.size }}</dd>
+      </div>
+    </dl>
+  </div>
+
+  <footer class="card-footer">
+    <time datetime="{{ site.time | date_to_xmlschema }}">更新日期: {{ site.time | date: "%Y-%m-%d" }}</time>
+  </footer>
+</article>
+{% endfor %}

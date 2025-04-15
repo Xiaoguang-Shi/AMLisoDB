@@ -1,0 +1,78 @@
+// 核心布局
+.main-container {
+    width: $container-width;
+    margin: 0 auto;
+    padding: 40px 0;
+    background: white;
+    box-shadow: 0 0 30px rgba(0,0,0,0.05);
+    min-height: 100vh;
+}
+.content-section {
+  padding: 0 80px;  // 左右缩进80px
+  max-width: 1000px; // 控制最大文本宽度
+  margin: 0 auto;    // 水平居中
+
+  p {
+    text-align: justify; // 两端对齐
+    line-height: 1.8;    // 增加行高提升可读性
+    margin: 1.5em 0;     // 段落间距
+  }
+
+  strong {
+    color: $accent-color; // 强调色突出关键词
+    font-weight: 600;
+  }
+}
+// 数据卡片
+.data-card {
+    width: 380px; // (1200-60)/3
+    background: #fff;
+    border: 1px solid $border-color;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease;
+    
+    &:hover {
+        transform: translateY(-5px);
+    }
+}
+
+// 图表容器
+.single-chart {
+    width: 1100px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid $border-color;
+}
+// 数据区块增强
+.data-section {
+  padding: 0 40px;
+  margin: 60px 0;
+  
+  h2 {
+    border-bottom: none;
+    position: relative;
+    
+    &::after {
+      content: '';
+      display: block;
+      width: 120px;
+      height: 2px;
+      background: $accent-color;
+      position: absolute;
+      bottom: -10px;
+      left: 0;
+    }
+  }
+}
+
+.analysis-section, .classification-section {
+  margin: 80px 0;
+  padding: 0 40px;
+  
+  h2 {
+    font-size: 2.4rem;
+    color: darken($primary-color, 10%);
+  }
+}

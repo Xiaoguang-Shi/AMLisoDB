@@ -1,0 +1,8 @@
+# _config.yml
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-sass-converter
+
+sass:
+  sass_dir: _sass
+  style: compressed

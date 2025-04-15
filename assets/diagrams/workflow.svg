@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 467.72 482.43">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: #ffb6c1;
+      }
+
+      .st3, .st4, .st5, .st6, .st7, .st8, .st9 {
+        opacity: .2;
+      }
+
+      .st10, .st11, .st12, .st13, .st14 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st10, .st15, .st16, .st13, .st17 {
+        fill: #231815;
+      }
+
+      .st10, .st14 {
+        font-size: 7.81px;
+      }
+
+      .st4 {
+        fill: #add8e6;
+      }
+
+      .st5 {
+        fill: #ff69b4;
+      }
+
+      .st11, .st16, .st13, .st18, .st17 {
+        font-size: 6.25px;
+      }
+
+      .st6 {
+        fill: gold;
+      }
+
+      .st1, .st19, .st20, .st21, .st2, .st22, .st23, .st24, .st8, .st25 {
+        stroke-miterlimit: 10;
+      }
+
+      .st1, .st19, .st20, .st21, .st22, .st23, .st24, .st8, .st25 {
+        stroke: #231815;
+      }
+
+      .st19 {
+        fill: #bfefff;
+      }
+
+      .st19, .st20, .st24, .st25 {
+        stroke-width: .75px;
+      }
+
+      .st20 {
+        fill: #ffdab9;
+      }
+
+      .st21 {
+        fill: #ddb6dd;
+      }
+
+      .st16, .st18, .st26 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st2 {
+        stroke: #000;
+      }
+
+      .st22 {
+        fill: #e0ffff;
+      }
+
+      .st23 {
+        fill: #ffe4b5;
+      }
+
+      .st24 {
+        fill: pink;
+      }
+
+      .st7 {
+        fill: #98fb98;
+      }
+
+      .st8 {
+        fill: #87ceeb;
+      }
+
+      .st9 {
+        fill: #ffa07a;
+      }
+
+      .st25 {
+        fill: #b0e0e6;
+      }
+    </style>
+  </defs>
+  <rect class="st5" x="1.42" y="321.54" width="298.33" height="156.08" rx="18.76" ry="18.76"/>
+  <g>
+    <path class="st1" d="M148.44,445.16c6.75-6.66,11.98-7.75,15.53-7.49,8.94.67,12.43,10.31,21.89,10.94,3.91.26,7.41-1.12,10.2-2.8"/>
+    <polygon class="st15" points="196.81 448.25 198.99 443.77 194.02 444.12 196.81 448.25"/>
+  </g>
+  <rect class="st9" x="316.68" y="102.43" width="149.62" height="206.15" rx="38.15" ry="38.15"/>
+  <rect class="st20" x="407.75" y="141.6" width="44.6" height="28.3"/>
+  <rect class="st20" x="322.77" y="141.6" width="61.03" height="28.3"/>
+  <rect class="st20" x="336" y="232.73" width="110.98" height="17.38"/>
+  <rect class="st20" x="352.31" y="273.13" width="77.74" height="25.39"/>
+  <rect class="st20" x="336" y="196.81" width="110.98" height="17.38"/>
+  <rect class="st3" x="1.76" y="102.43" width="149.62" height="206.15" rx="26.49" ry="26.49"/>
+  <rect class="st24" x="12.72" y="174" width="66.55" height="11.71"/>
+  <rect class="st24" x="13.44" y="135.44" width="59.96" height="21.39"/>
+  <rect class="st24" x="19.67" y="240.9" width="110.98" height="17.38"/>
+  <rect class="st24" x="36.65" y="281.29" width="77.09" height="22.91"/>
+  <rect class="st24" x="81.89" y="140.63" width="66.55" height="34.46"/>
+  <rect class="st8" x="244.39" y="1.45" width="217.53" height="83.99" rx="15.73" ry="15.73"/>
+  <rect class="st25" x="410.05" y="35.85" width="41.72" height="11.71"/>
+  <rect class="st25" x="410.05" y="50.66" width="41.72" height="11.71"/>
+  <rect class="st25" x="410.05" y="21.05" width="41.72" height="11.71"/>
+  <rect class="st25" x="410.05" y="6.11" width="41.72" height="11.71"/>
+  <rect class="st25" x="410.05" y="66.9" width="41.72" height="11.71"/>
+  <rect class="st25" x="252.1" y="30.97" width="73.45" height="21.44"/>
+  <rect class="st6" x="10.48" y="16.59" width="182.77" height="46.84" rx="8.93" ry="8.93"/>
+  <text class="st14" transform="translate(16.09 27.02)"><tspan x="0" y="0">input</tspan></text>
+  <rect class="st23" x="21.28" y="32.62" width="74.11" height="18.32"/>
+  <text class="st11" transform="translate(27.04 43.4)"><tspan x="0" y="0">Long reads RNA-Seq</tspan></text>
+  <rect class="st23" x="109.76" y="32.62" width="72.49" height="18.32"/>
+  <text class="st11" transform="translate(114.7 43.44)"><tspan x="0" y="0">short reads RNA-Seq</tspan></text>
+  <text class="st10" transform="translate(369.39 109.48)"><tspan x="0" y="0">Flair pipeline</tspan></text>
+  <polyline class="st0" points="5.26 10.93 5.26 10.93 5.26 10.93"/>
+  <rect class="st7" x="159.22" y="106.81" width="149.62" height="201.77" rx="24.15" ry="24.15"/>
+  <text class="st10" transform="translate(199.02 127.77)"><tspan x="0" y="0">stringtie3 pipeline</tspan></text>
+  <rect class="st19" x="242.11" y="155.71" width="61.1" height="23.41"/>
+  <text class="st13" transform="translate(253.91 166.61)"><tspan x="0" y="0" xml:space="preserve">short reads  </tspan><tspan x="-5.72" y="7.5">Alingnment bam</tspan></text>
+  <text class="st16" transform="translate(168.71 146.86)"><tspan x="0" y="0">minimap2</tspan></text>
+  <text class="st16" transform="translate(252.22 146.86)"><tspan x="0" y="0">hisat2</tspan></text>
+  <rect class="st19" x="178.54" y="225.23" width="110.98" height="17.38"/>
+  <text class="st13" transform="translate(189.03 235.62)"><tspan x="0" y="0">individual transcript assembly</tspan></text>
+  <g>
+    <path class="st1" d="M270.65,179.13c-1.49,5.12-4.47,12.18-11.03,16.8-7.1,4.99-13,3.31-18.83,8.14-3.2,2.65-6.75,7.56-7.74,17.58"/>
+    <polygon class="st15" points="230.63 220.75 232.81 225.23 235.61 221.11 230.63 220.75"/>
+  </g>
+  <rect class="st19" x="194.85" y="265.63" width="77.74" height="25.39"/>
+  <text class="st13" transform="translate(202.06 276.01)"><tspan x="0" y="0">stringtie3 assemblied</tspan><tspan x="1.74" y="7.5">transcripts isoforms</tspan></text>
+  <g>
+    <path class="st1" d="M232.81,242.61c-1.65,2.21-2.27,4.24-2.26,6.08.02,3.94,2.93,5.65,3.48,10.01.15,1.22.09,2.39-.12,3.51"/>
+    <polygon class="st15" points="231.63 260.78 232.81 265.63 236.42 262.19 231.63 260.78"/>
+  </g>
+  <text class="st16" transform="translate(189.92 213.13)"><tspan x="0" y="0">stringtie3</tspan></text>
+  <text class="st16" transform="translate(242.47 257.05)"><tspan x="0" y="0">gffcompare</tspan></text>
+  <text class="st13" transform="translate(419.15 44.22)"><tspan x="0" y="0">Refseq</tspan></text>
+  <text class="st13" transform="translate(420.96 59.03)"><tspan x="0" y="0">chess</tspan></text>
+  <text class="st13" transform="translate(416.24 29.42)"><tspan x="0" y="0">Ensembl</tspan></text>
+  <text class="st13" transform="translate(415.84 14.57)"><tspan x="0" y="0">Gencode</tspan></text>
+  <text class="st13" transform="translate(422.96 75.27)"><tspan x="0" y="0">Gtex</tspan></text>
+  <text class="st13" transform="translate(260.34 39.35)"><tspan x="0" y="0">GERCG transcripts</tspan><tspan x=".87" y="7.5">isoforms database</tspan></text>
+  <path class="st1" d="M410.05,11.97c-6.06-.98-15.39-1.64-25.62,1.6-12.47,3.95-17.03,10.78-31.56,18.58-5.93,3.18-15.01,7.33-27.33,10.21"/>
+  <path class="st1" d="M410.05,26.9c-4.77-1.26-12.06-2.63-20.78-1.88-11.11.96-18.01,4.8-27.23,8.4-8.17,3.18-20.32,7.02-36.49,8.94"/>
+  <g>
+    <line class="st1" x1="410.05" y1="41.71" x2="332.72" y2="42.31"/>
+    <polygon class="st15" points="334.14 37.31 325.55 42.36 334.22 47.28 334.14 37.31"/>
+  </g>
+  <path class="st1" d="M410.05,72.76c-6.06.98-15.39,1.64-25.62-1.6-12.47-3.95-17.03-10.78-31.56-18.58-5.93-3.18-15.01-7.33-27.33-10.21"/>
+  <path class="st1" d="M410.05,57.82c-4.77,1.26-12.06,2.63-20.78,1.88-11.11-.96-18.01-4.8-27.23-8.4-8.17-3.18-20.32-7.02-36.49-8.94"/>
+  <text class="st16" transform="translate(320.13 63.42)"><tspan x="0" y="0">gffcompare</tspan></text>
+  <text class="st10" transform="translate(251.09 11.97)"><tspan x="0" y="0">reference transcripts </tspan><tspan x="5.43" y="9.37">isoforms database</tspan></text>
+  <text class="st10" transform="translate(52.67 113.11)"><tspan x="0" y="0">talon pipeline</tspan></text>
+  <text class="st13" transform="translate(23.77 181.63)"><tspan x="0" y="0">Flagging reads</tspan></text>
+  <text class="st13" transform="translate(27.94 143.07)"><tspan x="0" y="0">Long reads</tspan><tspan x="-7.47" y="7.5">Alingnment sam</tspan></text>
+  <text class="st16" transform="translate(11.46 122.83)"><tspan x="0" y="0">minimap2</tspan></text>
+  <text class="st13" transform="translate(30.16 251.28)"><tspan x="0" y="0">individual transcript assembly</tspan></text>
+  <text class="st13" transform="translate(48.92 291.67)"><tspan x="0" y="0">Talon assemblied</tspan><tspan x="-3.99" y="7.5">transcripts isoforms</tspan></text>
+  <g>
+    <path class="st1" d="M73.94,258.28c-1.65,2.21-2.27,4.24-2.26,6.08.02,3.94,2.93,5.65,3.48,10.01.15,1.22.09,2.39-.12,3.51"/>
+    <polygon class="st15" points="72.76 276.45 73.94 281.29 77.55 277.85 72.76 276.45"/>
+  </g>
+  <text class="st16" transform="translate(80.88 269.78)"><tspan x="0" y="0">gffcompare</tspan></text>
+  <text class="st16" transform="translate(10.35 167.65)"><tspan x="0" y="0">talon_label_reads</tspan></text>
+  <text class="st17" transform="translate(99.95 151.89)"><tspan class="st12"><tspan x="0" y="0">Initialised </tspan></tspan><tspan class="st12"><tspan x="-9.9" y="7.5">TALON database</tspan></tspan><tspan class="st26"><tspan x="-10.07" y="15">(GrCh38/GERCG)</tspan></tspan></text>
+  <text class="st16" transform="translate(90.66 197.8)"><tspan x="0" y="0">talon_create_GTF</tspan></text>
+  <text class="st16" transform="translate(10.45 227.59)"><tspan x="0" y="0">talon_filter_transcripts</tspan></text>
+  <text class="st16" transform="translate(83.71 235.78)"><tspan x="0" y="0">talon_create_GTF</tspan></text>
+  <g>
+    <path class="st1" d="M77.04,217.88c-1.65,2.21-2.27,4.24-2.26,6.08.02,3.94,2.93,5.65,3.48,10.01.15,1.22.09,2.39-.12,3.51"/>
+    <polygon class="st15" points="75.87 236.05 77.04 240.9 80.65 237.46 75.87 236.05"/>
+  </g>
+  <g>
+    <path class="st1" d="M47.14,185.7c4.21,3.48,8.27,5.62,11.76,7,8.89,3.5,15.92,2.72,17.9,7.04.33.72.47,1.48.48,2.24"/>
+    <polygon class="st15" points="74.81 200.84 76.57 205.5 79.73 201.65 74.81 200.84"/>
+  </g>
+  <path class="st1" d="M116.46,175.08c-6.36,7.48-12.48,10.57-16.84,12.02-6.73,2.24-11.09,1.17-15.78,4.67-4.87,3.62-6.57,9.54-7.27,13.74"/>
+  <g>
+    <path class="st1" d="M63.44,157.68c-1.34,1.54-1.84,2.97-1.83,4.25.02,2.75,2.38,3.95,2.83,7,.07.48.09.95.05,1.41"/>
+    <polygon class="st15" points="62.1 168.97 63.44 173.77 66.93 170.21 62.1 168.97"/>
+  </g>
+  <text class="st16" transform="translate(58.33 124.22)"><tspan x="0" y="0">talon_initialize_database</tspan></text>
+  <g>
+    <path class="st1" d="M58.33,50.94c-18.26,10.75-22.75,20.34-23.22,27.37-.71,10.66,7.74,16.72,11.2,35.12,1.34,7.15,1.43,13.5,1.13,18.43"/>
+    <polygon class="st15" points="44.99 130.94 47.14 135.44 49.96 131.33 44.99 130.94"/>
+  </g>
+  <g>
+    <path class="st1" d="M58.33,50.94c20.87,22.77,41.09,34.68,55.93,41.37,36.9,16.65,68.3,13.55,80.42,35.89,4.48,8.26,4.76,17.12,4.03,23.97"/>
+    <polygon class="st15" points="196.3 151.12 198.22 155.71 201.24 151.75 196.3 151.12"/>
+  </g>
+  <g>
+    <path class="st1" d="M58.33,50.94c47.67,23.96,88.32,34.51,117.06,39.67,13.95,2.5,32.77,4.53,70.41,8.58,32.98,3.55,65.81,8.74,98.91,11,37.37,2.55,65.12,2.37,75.21,20.21,1.52,2.68,2.39,5.33,2.89,7.65"/>
+    <polygon class="st15" points="420.17 137.78 423.37 141.6 425.09 136.92 420.17 137.78"/>
+  </g>
+  <text class="st13" transform="translate(416.57 153.09)"><tspan x="0" y="0">Genomic</tspan><tspan x="-1.39" y="7.5">alignment</tspan></text>
+  <text class="st13" transform="translate(336.64 153.09)"><tspan x="0" y="0">Short-read </tspan><tspan x="-6.95" y="7.5">splice junctions</tspan></text>
+  <text class="st13" transform="translate(346.49 243.12)"><tspan x="0" y="0">individual transcript assembly</tspan></text>
+  <text class="st13" transform="translate(359.51 283.51)"><tspan x="0" y="0">stringtie3 assemblied</tspan><tspan x="1.74" y="7.5">transcripts isoforms</tspan></text>
+  <g>
+    <path class="st1" d="M390.27,250.11c-1.65,2.21-2.27,4.24-2.26,6.08.02,3.94,2.93,5.65,3.48,10.01.15,1.22.09,2.39-.12,3.51"/>
+    <polygon class="st15" points="389.09 268.28 390.27 273.13 393.87 269.69 389.09 268.28"/>
+  </g>
+  <text class="st16" transform="translate(399.93 264.55)"><tspan x="0" y="0">gffcompare</tspan></text>
+  <text class="st13" transform="translate(348.43 207.53)"><tspan x="0" y="0">Splice junction correction</tspan></text>
+  <g>
+    <path class="st1" d="M288.82,52.42c-30,27.99-57.04,38.06-76.08,42.12-33.12,7.05-62.94.32-77.86,19.67-5.67,7.35-7.26,15.96-7.57,22.63"/>
+    <polygon class="st15" points="124.9 136.01 127.24 140.41 129.89 136.19 124.9 136.01"/>
+  </g>
+  <g>
+    <path class="st1" d="M148.44,50.66c25.47,25.3,49.21,37.88,66.35,44.7,20.9,8.32,41.15,11.71,51.92,29.52,5.66,9.36,6.73,19.45,6.52,27.25"/>
+    <polygon class="st15" points="270.74 151.29 273.04 155.71 275.73 151.51 270.74 151.29"/>
+  </g>
+  <rect class="st21" x="12.05" y="362.84" width="81.08" height="22.65"/>
+  <text class="st13" transform="translate(21.37 372.42)"><tspan x="0" y="0">Raw AML transcripts</tspan><tspan x="3.47" y="7.5">isoforms database</tspan></text>
+  <path class="st1" d="M75.25,304.2c-1.4,3.37-3.65,8.52-6.8,14.62-5.88,11.42-8.87,14.48-11.2,21.12-1.74,4.95-3.32,12.47-1.78,22.89"/>
+  <g>
+    <path class="st1" d="M233.35,291.02c-9.36,6.25-24.41,15.21-44.27,22.31-62.79,22.44-115.51,5.43-130.31,32.21-1.53,2.77-3.29,7.17-3.41,13.7"/>
+    <polygon class="st15" points="52.91 358.56 55.47 362.84 57.9 358.49 52.91 358.56"/>
+  </g>
+  <path class="st1" d="M389.79,298.52c-2.92,1.54-7.55,3.87-13.39,6.3-37.25,15.48-70.81,12.81-85.26,11.96-100.63-5.91-140.89,25.47-201.05,24.09-5.76-.13-24.27-.85-31.56,10.01-2.88,4.3-3.14,9.11-3.05,11.95"/>
+  <rect class="st21" x="13.72" y="421.66" width="135.27" height="45.68"/>
+  <rect class="st21" x="137.71" y="348.13" width="43.45" height="18.94"/>
+  <text class="st13" transform="translate(141.55 359.74)"><tspan x="0" y="0">polyA reads</tspan></text>
+  <rect class="st21" x="115.73" y="379.45" width="87.42" height="18.94"/>
+  <text class="st13" transform="translate(120.78 391.05)"><tspan x="0" y="0">AML PolyA 3UTR databes</tspan></text>
+  <g>
+    <path class="st1" d="M148.44,50.66c1.45,23.79,2.83,46.51,2.92,48.03,2.04,33.48,2.37,38.7,2.73,47.68.83,20.97.78,36.03.7,59.7-.02,6.85-.4,35.06-.23,66.17.1,17.92.31,27.14,5.26,37.67,1.9,4.04,4.77,8.86,6.45,16.63,1.45,6.73,1.38,12.78.89,17.48"/>
+    <polygon class="st15" points="164.75 342.98 166.67 347.58 169.7 343.62 164.75 342.98"/>
+  </g>
+  <text class="st13" transform="translate(17.33 429.52)"><tspan x="0" y="0">Quality Control</tspan></text>
+  <text class="st13" transform="translate(19.56 440.9)"><tspan x="0" y="0">1.At least in one sample, all splice sites are </tspan><tspan x="0" y="7.5" xml:space="preserve">   covered by at least 10 short reads.</tspan><tspan x="0" y="15">2.The 3&apos; end is not an intrapriming artifact.</tspan><tspan x="0" y="22.5">3.Contains a polyA motif or polyA site.</tspan></text>
+  <path class="st1" d="M52.59,385.49c11.77,4.24,18.91,14.27,17.97,23.68-.63,6.32-4.74,10.68-6.69,12.49"/>
+  <rect class="st21" x="198.99" y="430.9" width="70.93" height="23.87"/>
+  <text class="st13" transform="translate(222.89 440.75)"><tspan x="0" y="0">Coding </tspan><tspan x="-5.39" y="7.5">Transcripts</tspan></text>
+  <rect class="st4" x="308.84" y="319.06" width="153.32" height="156.08" rx="18.76" ry="18.76"/>
+  <text class="st10" transform="translate(323.71 334.02)"><tspan x="0" y="0">Annotation</tspan></text>
+  <g>
+    <rect class="st22" x="325.84" y="367.2" width="52.94" height="18.27"/>
+    <text class="st13" transform="translate(341 377.92)"><tspan x="0" y="0">Interpro</tspan></text>
+  </g>
+  <g>
+    <rect class="st22" x="325.84" y="411.25" width="52.94" height="18.27"/>
+    <text class="st13" transform="translate(339.99 422.51)"><tspan x="0" y="0">EggNOG</tspan></text>
+  </g>
+  <path class="st2" d="M352.31,170.01c6.32,6.19,12.22,8.76,16.52,9.94,9.12,2.51,15.29-.02,20.06,4.25,3.68,3.29,4.3,8.64,4.25,12.61"/>
+  <g>
+    <path class="st2" d="M423.37,169.91c-1.61,2.14-4.38,5.23-8.66,7.31-6.27,3.06-10.35,1.33-14.59,3.95-2.44,1.51-5.27,4.67-6.54,12.08"/>
+    <polygon points="391.26 192.19 393.14 196.81 396.2 192.88 391.26 192.19"/>
+  </g>
+  <g>
+    <path class="st1" d="M390.27,214.19c-1.65,1.78-2.27,3.42-2.26,4.9.02,3.17,2.93,4.55,3.48,8.07.12.75.11,1.49,0,2.2"/>
+    <polygon class="st15" points="389.23 227.86 390.27 232.73 393.97 229.4 389.23 227.86"/>
+  </g>
+  <text class="st10" transform="translate(213.43 338.36)"><tspan x="0" y="0">Transcripts Filter</tspan></text>
+  <text class="st18" transform="translate(423.37 130.84)"><tspan x="0" y="0">flair align </tspan></text>
+  <text class="st18" transform="translate(404.15 189.37)"><tspan x="0" y="0">flair correct</tspan></text>
+  <text class="st18" transform="translate(398.27 227.59)"><tspan x="0" y="0">flair collapse</tspan></text>
+  <path class="st1" d="M194.97,178.37c1.49,5.12,4.47,12.18,11.03,16.8,7.1,4.99,13,3.31,18.83,8.14,3.56,2.94,7.56,8.69,7.97,21.16"/>
+  <rect class="st19" x="166.67" y="155.71" width="60.21" height="23.41"/>
+  <text class="st13" transform="translate(178.2 165.13)"><tspan x="0" y="0" xml:space="preserve">Long reads  </tspan><tspan x="-5.9" y="7.5">Alingnment bam</tspan></text>
+  <rect class="st21" x="225.7" y="361.63" width="49.98" height="22.96"/>
+  <text class="st11" transform="translate(233.01 370.98)"><tspan x="0" y="0">PolyA motif</tspan><tspan x="2.77" y="7.5">PolyASite</tspan></text>
+  <g>
+    <path class="st1" d="M159.44,367.07c-2.54,1.45-3.05,2.58-3.01,3.36.12,2.28,5.03,3,5.28,5.54.02.23,0,.45-.04.67"/>
+    <polygon class="st15" points="159.72 374.47 159.44 379.45 163.89 377.21 159.72 374.47"/>
+  </g>
+  <path class="st1" d="M250.73,384.72c-3.77,4.46-10.34,11.3-20.08,16.94-8.03,4.65-25.15,12.93-84.88,8.91-37.24-2.51-61.16-7.77-78.71,7.92-1.41,1.26-2.49,2.4-3.19,3.17"/>
+  <g>
+    <path class="st1" d="M161.72,398.38c-5.57,3.93-10.42,5.73-13.45,6.63-16.32,4.85-25.92-2.75-51.24-.93-6.65.48-9.97,1.29-12.81,2.29-8.31,2.94-14.22,8.15-18.07,12.52"/>
+    <polygon class="st15" points="64.76 416.75 63.87 421.66 68.56 419.98 64.76 416.75"/>
+  </g>
+  <g>
+    <path class="st1" d="M269.92,442.83c7.35-4.05,16.57-10.74,22.06-21.7,8.33-16.63,2.14-31.21,11.96-40.21,3.98-3.65,9.88-5.73,18.32-5.5"/>
+    <polygon class="st15" points="321.4 377.9 325.84 375.63 321.66 372.92 321.4 377.9"/>
+  </g>
+  <g>
+    <path class="st1" d="M269.92,442.83c9.21-.81,15.72-3.59,20.28-6.43,6.95-4.32,8.71-8.36,15.27-11.71,5.67-2.89,11.58-3.57,16.8-3.34"/>
+    <polygon class="st15" points="321.36 423.84 325.84 421.66 321.71 418.86 321.36 423.84"/>
+  </g>
+  <text class="st18" transform="translate(163.76 432.07)"><tspan x="0" y="0">orfanage</tspan></text>
+  <text class="st18" transform="translate(35.53 407.2)"><tspan x="0" y="0">SQANTI3</tspan></text>
+  <rect class="st2" x="10.48" y="16.59" width="182.77" height="46.84" rx="8.93" ry="8.93"/>
+  <rect class="st1" x="244.39" y="1.45" width="217.53" height="83.99" rx="15.73" ry="15.73"/>
+  <rect class="st2" x="316.68" y="102.43" width="149.62" height="206.15" rx="38.15" ry="38.15"/>
+  <g>
+    <path class="st1" d="M303.22,167.42c1.49.21,3.66.26,5.69-.84,4.02-2.17,3.83-6.84,7.85-8.99.6-.32,1.39-.64,2.42-.81"/>
+    <polygon class="st15" points="318.51 159.41 322.77 156.83 318.4 154.43 318.51 159.41"/>
+  </g>
+  <rect class="st1" x="159.22" y="106.81" width="149.62" height="201.77" rx="24.15" ry="24.15"/>
+  <rect class="st1" x="1.76" y="102.43" width="149.62" height="206.15" rx="26.49" ry="26.49"/>
+  <rect class="st1" x="1.42" y="321.54" width="298.33" height="156.08" rx="18.76" ry="18.76"/>
+  <rect class="st1" x="308.84" y="319.06" width="153.32" height="156.08" rx="18.76" ry="18.76"/>
+  <rect class="st24" x="45.99" y="205.5" width="66.55" height="12.9"/>
+  <text class="st13" transform="translate(50.27 213.87)"><tspan x="0" y="0">annotated isoforms</tspan></text>
+  <g>
+    <rect class="st22" x="412.33" y="420.9" width="35.31" height="15.54"/>
+    <text class="st13" transform="translate(420.74 430.91)"><tspan x="0" y="0">KEGG</tspan></text>
+  </g>
+  <g>
+    <rect class="st22" x="412.33" y="378.8" width="35.31" height="15.54"/>
+    <text class="st13" transform="translate(415.01 388.81)"><tspan x="0" y="0">Reactome</tspan></text>
+  </g>
+  <g>
+    <rect class="st22" x="412.33" y="336.71" width="35.31" height="15.54"/>
+    <text class="st13" transform="translate(416.75 346.71)"><tspan x="0" y="0">Domains</tspan></text>
+  </g>
+  <g>
+    <rect class="st22" x="412.33" y="399.85" width="35.31" height="15.54"/>
+    <text class="st13" transform="translate(425.08 409.86)"><tspan x="0" y="0">GO</tspan></text>
+  </g>
+  <g>
+    <rect class="st22" x="412.33" y="357.75" width="35.31" height="15.54"/>
+    <text class="st13" transform="translate(417.09 367.76)"><tspan x="0" y="0">MetaCyc</tspan></text>
+  </g>
+  <g>
+    <rect class="st22" x="412.33" y="441.95" width="35.31" height="15.54"/>
+    <text class="st13" transform="translate(422.83 451.96)"><tspan x="0" y="0">COG</tspan></text>
+  </g>
+  <g>
+    <path class="st1" d="M378.78,376.33c3.21-2.2,7.8-5.98,11.19-11.95,4.19-7.4,3.43-12.67,8.06-16.63,1.94-1.66,5.15-3.36,10.72-3.43"/>
+    <polygon class="st15" points="407.95 346.84 412.33 344.47 408.09 341.86 407.95 346.84"/>
+  </g>
+  <g>
+    <path class="st1" d="M378.78,376.33c3.67-.74,8.41-2.14,13.39-5,2.42-1.39,3.29-2.2,5.34-3.22,2.67-1.34,6.32-2.53,11.23-2.67"/>
+    <polygon class="st15" points="407.99 367.97 412.33 365.52 408.05 362.98 407.99 367.97"/>
+  </g>
+  <g>
+    <path class="st1" d="M378.78,376.33c6.49,1.45,11.3,3.45,14.5,5.01,2.23,1.09,3.12,1.7,5.09,2.55,3.81,1.63,7.41,2.31,10.39,2.56"/>
+    <polygon class="st15" points="407.9 388.84 412.33 386.57 408.15 383.86 407.9 388.84"/>
+  </g>
+  <g>
+    <path class="st1" d="M378.78,376.33c9.46,5.45,13.27,11.36,14.95,15.93,1.61,4.39,1.36,7.8,4.3,10.97,2.81,3.03,6.9,4.09,10.72,4.35"/>
+    <polygon class="st15" points="407.96 410.02 412.33 407.62 408.07 405.03 407.96 410.02"/>
+  </g>
+  <path class="st1" d="M378.78,420.38c3.67-.49,8.62-1.74,13.22-5.19,2.46-1.85,3.18-3.09,5.43-4.58,2.85-1.88,7.43-3.68,14.9-2.99"/>
+  <g>
+    <path class="st1" d="M378.78,420.38c6.68-.16,11.15,1.46,13.99,2.95,3.66,1.93,5.2,3.96,9.16,5.17,2.47.76,4.83.88,6.86.72"/>
+    <polygon class="st15" points="408.4 431.74 412.33 428.67 407.71 426.8 408.4 431.74"/>
+  </g>
+  <g>
+    <path class="st1" d="M378.78,420.38c7.42,3.91,11.09,8.46,13.05,11.78,4,6.75,3.16,12.12,7.72,15.61,2.75,2.11,6.19,2.54,9.22,2.39"/>
+    <polygon class="st15" points="408.31 452.66 412.33 449.72 407.77 447.71 408.31 452.66"/>
+  </g>
+</svg>
