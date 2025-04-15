@@ -50,7 +50,7 @@ data_files:
   </div>
 
   <section class="analysis-section">
-    <h2>Core Analysis Pipeline</h2>
+    <h2>Transcript Isoform Assembly Pipeline</h2>
     <div class="single-chart">
       <img src="{{ '/assets/diagrams/workflow.svg' | relative_url }}" 
            alt="Analysis Workflow"
