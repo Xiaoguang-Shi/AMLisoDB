@@ -5,7 +5,7 @@ nav_order: 1
 description: "AMLisoDB: a comprehensive AML transcript isoform database"
 data_files:
   - name: "AMLisoDB 1.0"
-    path: "/assets/data/isoforms/AMLisoDB.1.0.gtf.zip"
+    path: "/assets/data/isoforms/AMLisoDB.1.0.gtf.gz"
     format: "format: GTF"
     size: "size: 227 MB"
     desc: "Contains 119,210 novel identified AML-specific isoforms"
