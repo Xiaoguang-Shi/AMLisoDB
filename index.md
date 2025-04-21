@@ -2,7 +2,6 @@
 layout: default
 title: AMLisoDB
 nav_order: 1
-description: "AMLisoDB: a comprehensive AML transcript isoform database"
 logo:
   path: "/assets/logo/logo.png"
   alt: "AMLisoDB Logo"
