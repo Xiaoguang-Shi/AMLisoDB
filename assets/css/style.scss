@@ -39,3 +39,14 @@ h1 {
     justify-content: space-between;
     padding: 0 40px;
 }
+
+.branding-header {
+  text-align: center;
+  margin: 2rem 0; /* 可自定义上下间距 */
+}
+
+.site-logo {
+  display: inline-block; /* 确保图片可受text-align控制 */
+  max-width: 100%; /* 响应式适配 */
+  height: auto; /* 保持宽高比 */
+}
