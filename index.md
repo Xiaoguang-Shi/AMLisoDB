@@ -3,6 +3,11 @@ layout: default
 title: AMLisoDB
 nav_order: 1
 description: "AMLisoDB: a comprehensive AML transcript isoform database"
+logo:
+  path: "/assets/logo/logo.png"
+  alt: "AMLisoDB Logo"
+  width: 180
+  height: 45
 data_files:
   - name: "AMLisoDB 1.0"
     path: "/assets/data/isoforms/AMLisoDB.1.0.gtf.gz"
@@ -92,4 +97,23 @@ data_files:
       {% endfor %}
     </div>
   </section>
+</div>
+<div class="main-container">
+  <!-- 替换原有h1标题为LOGO -->
+  <div class="branding-header">
+    <img src="{{ page.logo.path | relative_url }}" 
+         alt="{{ page.logo.alt }}"
+         class="site-logo"
+         width="{{ page.logo.width }}"
+         height="{{ page.logo.height }}">
+  </div>
+  
+  <div class="content-section">
+    <!-- 保留原有描述不变 -->
+    <p>{{ page.description }}</p>
+    [...]
+  </div>
+  
+  <!-- 保持其他区块不变 -->
+  <section class="analysis-section">[...]</section>
 </div>
