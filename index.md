@@ -6,7 +6,8 @@ description: "AMLisoDB: a comprehensive AML transcript isoform database"
 logo:
   path: "/assets/logo/logo.png"
   alt: "AMLisoDB Logo"
-
+  width: 201.1
+  height: 167.8
 data_files:
   - name: "AMLisoDB 1.0"
     path: "/assets/data/isoforms/AMLisoDB.1.0.gtf.gz"
