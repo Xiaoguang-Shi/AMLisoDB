@@ -1,0 +1,32 @@
+// LOGO精确尺寸控制
+.branding-header {
+  margin: 1.5rem 0 2rem;
+  text-align: center;
+  
+  .site-logo {
+    object-fit: contain;
+    max-width: min(100%, #{map-get($logo-sizes, desktop)});
+    
+    // 移动端适配
+    @media (max-width: 768px) {
+      max-width: #{map-get($logo-sizes, mobile)};
+    }
+  }
+}
+
+// 尺寸配置变量
+$logo-sizes: (
+  desktop: 180px,
+  mobile: 140px
+);
+
+// 打印优化
+@media print {
+  .branding-header {
+    padding: 0.5cm;
+    .site-logo {
+      filter: grayscale(100%);
+      max-width: 3cm !important;
+    }
+  }
+}
