@@ -47,7 +47,17 @@ data_files:
 ---
 
 <div class="main-container">
-  <h1>{{ page.title }}</h1>
+  <!-- 替换原有h1标题为LOGO -->
+  <div class="branding-header">
+    <img src="{{ page.logo.path | relative_url }}" 
+         alt="{{ page.logo.alt }}"
+         class="site-logo"
+         width="{{ page.logo.width }}"
+         height="{{ page.logo.height }}">
+  </div>
+  
+
+
 
   <div class="content-section">
     <p>{{ page.description }}</p>
@@ -97,23 +107,5 @@ data_files:
       {% endfor %}
     </div>
   </section>
-</div>
-<div class="main-container">
-  <!-- 替换原有h1标题为LOGO -->
-  <div class="branding-header">
-    <img src="{{ page.logo.path | relative_url }}" 
-         alt="{{ page.logo.alt }}"
-         class="site-logo"
-         width="{{ page.logo.width }}"
-         height="{{ page.logo.height }}">
-  </div>
-  
-  <div class="content-section">
-    <!-- 保留原有描述不变 -->
-    <p>{{ page.description }}</p>
-    [...]
-  </div>
-  
-  <!-- 保持其他区块不变 -->
-  <section class="analysis-section">[...]</section>
+
 </div>
