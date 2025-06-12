@@ -11,4 +11,4 @@ AMLisoDB is a comprehensive, open-access database dedicated to cataloging and an
 
 ## Quick Access
 - Live website: [https://Xiaoguang-Shi.github.io/AMLisoDB](https://Xiaoguang-Shi.github.io/AMLisoDB)
-- Data apply: The gtf data of the transcripts are available from the corresponding author [Shengyue Wang, email: xiaoguangshi@sjtu.edu.cn] upon reasonable request.
+- Data availability: The transcripts' GTF data is available from the author (Shengyue Wang, email: xiaoguangshi@sjtu.edu.cn) upon reasonable request.
