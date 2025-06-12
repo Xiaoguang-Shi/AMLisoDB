@@ -2,7 +2,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/website-live-blue.svg)](https://username.github.io/AMLisoDB)
 
-AMLisoDB is a comprehensive, open-access database dedicated to cataloging and annotating transcript isoform diversity in acute myeloid leukemia (AML). To achieve high-confidence transcriptome annotation in AML, we developed a multi-tool integrative assembly workflow combining long-read Oxford Nanopore (ONT) sequencing and short-read NGS RNA-Seq data. The pipeline leverages the complete human reference genome GRCh38.p14 (including all reference chromosomes, scaffolds, assembly patches, and alternate haplotypes) to ensure comprehensive annotation of isoforms across both canonical and non-canonical genomic regions.
+AMLisoDB is a comprehensive database designed to catalog and annotate transcript isoform diversity in acute myeloid leukemia (AML). To ensure high-confidence transcriptome annotation in AML, we developed a multi-tool integrative assembly workflow. This workflow combines long-read Oxford Nanopore (ONT) sequencing with short-read NGS RNA-Seq data. By utilizing the complete human reference genome GRCh38.p14, which includes all reference chromosomes, scaffolds, assembly patches, and alternate haplotypes, the pipeline ensures comprehensive annotation of isoforms across both canonical and non-canonical genomic regions. The gtf data of the transcripts is available from the author (email: xiaoguangshi@sjtu.edu.cn) upon reasonable request.
 
 ## Features
 - Integrated long-read (ONT) and short-read (NGS) analysis
@@ -11,4 +11,3 @@ AMLisoDB is a comprehensive, open-access database dedicated to cataloging and an
 
 ## Quick Access
 - Live website: [https://Xiaoguang-Shi.github.io/AMLisoDB](https://Xiaoguang-Shi.github.io/AMLisoDB)
-- Data availability: The transcripts' GTF data is available from the author (Shengyue Wang, email: xiaoguangshi@sjtu.edu.cn) upon reasonable request.
